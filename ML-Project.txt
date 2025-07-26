@@ -1,0 +1,435 @@
+app.py
+
+from flask import Flask, request, jsonify
+import joblib
+from flask_cors import CORS
+import numpy as np
+
+app = Flask(__name__)
+CORS(app)
+
+# Load model and scaler
+model = joblib.load('best_diabetes_model.pkl')
+scaler = joblib.load('scaler.pkl')  # Make sure you saved this during training
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    data = request.get_json()
+    features = np.array([
+        data['pregnancies'],
+        data['glucose'],
+        data['bloodPressure'],
+        data['skinThickness'],
+        data['insulin'],
+        data['bmi'],
+        data['diabetesPedigree'],
+        data['age']
+    ]).reshape(1, -1)
+
+    # Scale the input features
+    scaled_features = scaler.transform(features)
+
+    # Make prediction
+    prediction = model.predict(scaled_features)[0]
+
+    return jsonify({'prediction': int(prediction)})
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000)
+
+
+
+
+
+app.js
+const express = require("express");
+const axios = require("axios");
+const cors = require("cors");
+const app = express();
+
+app.use(cors());
+app.use(express.json());
+
+app.post("/api/predict", async (req, res) => {
+  try {
+    const response = await axios.post(
+      "http://54.175.26.202:5000/predict",
+      req.body
+    );
+    res.json(response.data);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to get prediction" });
+  }
+});
+
+const PORT = 3001;
+app.listen(PORT, () =>
+  console.log(`Node.js server running on http://localhost:${PORT}`)
+);
+
+
+
+
+
+app.jsx
+import React, { useState } from "react";
+import axios from "axios";
+import "./App.css";
+// import diabetesImage from "./assets/diabetes.png";
+import diabetesImage from "./assets/image3.png";
+// import diabetesImage from "./assets/image4.png";
+
+function App() {
+  const [formData, setFormData] = useState({
+    pregnancies: "",
+    glucose: "",
+    bloodPressure: "",
+    skinThickness: "",
+    insulin: "",
+    bmi: "",
+    diabetesPedigree: "",
+    age: "",
+  });
+
+  const [prediction, setPrediction] = useState(null);
+
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    try {
+      const numericData = Object.fromEntries(
+        Object.entries(formData).map(([key, value]) => [key, parseFloat(value)])
+      );
+      const res = await axios.post(
+        "http://54.163.53.125:3001/api/predict",
+        numericData
+      );
+      setPrediction(res.data.prediction === 1 ? "Diabetic" : "Not Diabetic");
+    } catch (error) {
+      console.error("Prediction error:", error);
+    }
+  };
+
+  return (
+    <div className="app-wrapper">
+      <div className="image-side">
+        <h2 className="evangadi">Evangadi Health Consultancy</h2>
+        <img src={diabetesImage} alt="Diabetes Awareness" />
+      </div>
+
+      <div className="form-side">
+        <h1 className="title">🧬Diabetes Prediction</h1>
+        <form onSubmit={handleSubmit} className="form">
+          {Object.entries(formData).map(([field, value]) => (
+            <div className="form-group" key={field}>
+              <label className="label">
+                {field
+                  .replace(/([A-Z])/g, " $1")
+                  .replace(/^./, (s) => s.toUpperCase())}
+              </label>
+              <input
+                type="number"
+                name={field}
+                step={
+                  field === "bmi"
+                    ? "0.1"
+                    : field === "diabetesPedigree"
+                    ? "0.01"
+                    : "1"
+                }
+                value={value}
+                onChange={handleChange}
+                className="input"
+                required
+              />
+            </div>
+          ))}
+          <button type="submit" className="button">
+            Predict
+          </button>
+        </form>
+        {prediction && (
+          <div className="result">
+            🩺 Result: <strong>{prediction}</strong>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+export default App;
+
+
+
+Server Setup
+1. Deploy the Flask API (Model Server)
+✅ On EC2 Instance A (Flask server)
+Launch EC2 (Ubuntu) and SSH into it
+
+Install dependencies:
+sudo apt update
+sudo apt install python3-pip python3-venv -y
+python3 -m venv venv
+source venv/bin/activate
+pip install flask flask-cors joblib numpy scikit-learn
+
+or
+
+pip install flask flask-cors xgboost numpy
+
+Upload your Flask project (e.g., via scp or git pull)
+
+Ensure app.py includes:
+app.run(host="0.0.0.0", port=5000)
+
+Run your Flask app:
+python app.py
+Allow port 5000 in EC2 security group (inbound rules)
+
+curl -X POST http://public_IP:5000/predict \
+  -H "Content-Type: application/json" \
+  -d '{
+    "lecture_watch_pct": 45.5,
+    "checklist_pct": 72.3,
+    "attended_live_class": 1,
+    "attended_group_discussion": 1,
+    "qa_participation_pct": 58.7
+  }'
+
+2.Deploy the Node.js Backend 
+✅On EC2 Instance B (Node.js server)
+Launch EC2 and SSH into it
+
+Install Node.js and npm:
+sudo apt update
+sudo apt install nodejs npm -y
+Upload your Node.js backend (or clone from GitHub)
+
+In your Node.js project:
+npm install
+
+Update app.js to call the Flask server's public IP:
+axios.post("http://<Flask_EC2_Public_IP>:5000/predict", req.body)
+
+Run the server:
+node --watch app.js
+Allow port 3001 in EC2 security group
+
+
+
+3. Deploy the React Frontend to S3
+From your React project directory:
+npm run build
+
+Go to AWS S3 → Create a new bucket
+
+Uncheck "Block all public access"
+
+Enable Static website hosting
+
+Set index document = index.html
+
+Upload the contents of dist/ or build/
+
+Set the bucket policy to make files public:
+
+{
+  "Version": "2012-10-17",
+  "Statement": [{
+    "Effect": "Allow",
+    "Principal": "*",
+    "Action": "s3:GetObject",
+    "Resource": "arn:aws:s3:::your-bucket-name/*"
+  }]
+}
+
+Open the static site URL:
+http://your-bucket-name.s3-website-<region>.amazonaws.com
+Make sure the React app calls your Node.js backend’s public IP:
+axios.post("http://<Node_EC2_Public_IP>:3001/api/predict", ...)
+
+
+4. Deploy the React Front-end on AWS EC2
+
+1. create an ec2 instance and open the port front-end app running in security group
+2.ssh to the instance
+3.sudo apt update
+4. sudo apt upgrade -y
+5. sudo apt install npm
+6. clone the project from GitHub and cd to the client
+7. npm install
+8.sudo npm install -g n
+9. sudo n 20.19.0
+10. npm run dev -- --host 
+
+
+
+
+
+
+
+Chat Bot
+
+
+🛠️ Step-by-Step Implementation Guide
+1. Create a Lex Bot
+Go to Lex Console:
+URL: https://console.aws.amazon.com/lex/
+
+Click “Create bot”
+
+Configure Basic Settings:
+Bot name: DropoutAssistantBot
+
+Language: English (or as needed)
+
+Voice Interaction: Optional (for text only, disable voice)
+
+Output voice: None (optional)
+
+IAM Role: Create a new role with basic Lex permissions
+
+Sentiment analysis: Optional
+
+Children's Privacy: No
+
+2. Define Intents
+Each intent represents an action the user wants to perform.
+
+Examples:
+a. WhyAtRiskIntent
+Sample utterances:
+
+“Why am I at risk?”
+
+“What’s the reason for my dropout risk?”
+
+Response:
+
+“Based on your data, it may be due to low participation or attendance. Would you like personalized suggestions?”
+
+b. GetRecommendationIntent
+“Give me study tips”
+
+“How can I reduce my risk?”
+
+c. TalkToAdvisorIntent
+“I want to speak to someone”
+
+“Connect me to an advisor”
+
+3. Add Slots (Optional)
+Slots = Parameters you want to extract.
+
+Example for GetRecommendationIntent: Add slot for subject like “math”, “biology”
+
+4. Set Responses
+Under each intent, set the message Lex will send back to the user.
+
+5. Build and Test the Bot
+Click Build
+
+Use Test Bot panel in Lex to try sample utterances
+
+Once satisfied, click Deploy
+
+6. Create an Alias
+After building, go to “Aliases”
+
+Create one like ProdAlias
+
+Use this in API calls to invoke the correct version
+
+🔗 7. Integrate Lex into Your Application
+A. Frontend (React)
+You can use AWS SDK v3 or amazon-lex-web-ui for a chat interface.
+
+
+
+a. Install dependencies
+npm install @aws-sdk/client-lex-runtime-v2
+b. Example React Component
+import React, { useState } from 'react';
+import { LexRuntimeV2Client, RecognizeTextCommand } from "@aws-sdk/client-lex-runtime-v2";
+
+const client = new LexRuntimeV2Client({
+  region: "us-east-1", // Your region
+  credentials: {
+    accessKeyId: "<YOUR_ACCESS_KEY>",
+    secretAccessKey: "<YOUR_SECRET_KEY>"
+  }
+});
+
+export default function ChatBot() {
+  const [messages, setMessages] = useState([]);
+  const [input, setInput] = useState("");
+
+  const sendMessage = async () => {
+    const command = new RecognizeTextCommand({
+      botAliasId: "<BOT_ALIAS_ID>",
+      botId: "<BOT_ID>",
+      localeId: "en_US",
+      sessionId: "student123",
+      text: input
+    });
+
+    const response = await client.send(command);
+    const reply = response.messages?.[0]?.content || "No response.";
+    setMessages([...messages, { user: input }, { bot: reply }]);
+    setInput("");
+  };
+
+  return (
+    <div>
+      <h3>Ask Dropout Assistant</h3>
+      <div>
+        {messages.map((m, i) => (
+          <p key={i}><b>{m.user ? "You" : "Bot"}:</b> {m.user || m.bot}</p>
+        ))}
+      </div>
+      <input value={input} onChange={e => setInput(e.target.value)} />
+      <button onClick={sendMessage}>Send</button>
+    </div>
+  );
+}
+B. Backend (Node.js) – Optional
+You can also interact with Lex through your Node.js backend using AWS SDK.
+
+
+npm install @aws-sdk/client-lex-runtime-v2
+
+const { LexRuntimeV2Client, RecognizeTextCommand } = require("@aws-sdk/client-lex-runtime-v2");
+
+const lexClient = new LexRuntimeV2Client({
+  region: "us-east-1",
+  credentials: {
+    accessKeyId: "<KEY>",
+    secretAccessKey: "<SECRET>"
+  }
+});
+
+app.post("/chatbot", async (req, res) => {
+  const { message } = req.body;
+
+  const command = new RecognizeTextCommand({
+    botAliasId: "<BOT_ALIAS_ID>",
+    botId: "<BOT_ID>",
+    localeId: "en_US",
+    sessionId: "student_session",
+    text: message
+  });
+
+  try {
+    const response = await lexClient.send(command);
+    res.json({ reply: response.messages?.[0]?.content });
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("Error communicating with Lex");
+  }
+});
+
+

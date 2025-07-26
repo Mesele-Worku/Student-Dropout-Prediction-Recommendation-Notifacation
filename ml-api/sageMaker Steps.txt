@@ -1,0 +1,104 @@
+import boto3
+import pandas as pd
+
+bucket_name = 'student-droupout-predictor'     # Replace with your actual S3 bucket name
+file_key = 'balanced_student_dataset_formated.csv'            # File name inside S3
+local_file = 'balanced_student_dataset_formated.csv'          # Name to save locally
+
+s3 = boto3.client('s3')                         # Initialize the S3 client
+s3.download_file(bucket_name, file_key, local_file)  # Download the CSV
+
+df = pd.read_csv(local_file)
+
+df.head()
+
+df.columns
+
+df.describe()
+
+import matplotlib.pyplot as plt
+
+df.hist(figsize=(12, 10), bins=20, edgecolor='black')
+plt.suptitle("Feature Distributions After Cleaning", fontsize=16)
+plt.tight_layout()
+plt.show()
+
+df['dropout'].value_counts()
+
+cols = df.columns.tolist()
+cols.insert(0, cols.pop(cols.index('dropout')))
+df = df[cols]
+df.head()
+
+df.tail()
+
+from sklearn.model_selection import train_test_split
+train_df, val_df = train_test_split(
+    df,
+    test_size=0.2,
+    random_state=42,
+    stratify=df['dropout']  # preserve class distribution
+)
+
+train_df.to_csv('train_final.csv', index=False, header=False)
+val_df.to_csv('validation_final.csv', index=False, header=False)
+
+# S3 bucket and file keys
+bucket_name = 'student-droupout-predictor'  
+train_key = 'train/train.csv'
+val_key = 'test/test.csv'
+s3 = boto3.resource('s3')
+s3.Bucket(bucket_name).upload_file('train_final.csv', train_key)
+s3.Bucket(bucket_name).upload_file('validation_final.csv', val_key)
+print("✅ Files uploaded successfully to S3.")
+
+
+from sagemaker import image_uris
+image_uris.retrieve(framework='xgboost',region='us-east-1',version='1.5-1')
+
+import boto3
+import sagemaker
+from sagemaker.estimator import Estimator
+from sagemaker import get_execution_role
+role = get_execution_role()  # Automatically gets the role attached to the notebook
+container = '683313688378.dkr.ecr.us-east-1.amazonaws.com/sagemaker-xgboost:1.5-1'
+# SageMaker session and S3 location to store the output model
+sagemaker_session = sagemaker.Session()
+output_path = 's3://student-droupout-predictor/model-output'
+
+# Define the estimator
+estimator = Estimator(
+    image_uri=container,
+    role=role,
+    instance_count=1,
+    instance_type='ml.t3.medium',  # Use smaller type like 'ml.t2.medium' for testing
+    output_path=output_path,
+    sagemaker_session=sagemaker_session,
+    base_job_name='student-dropout'
+)
+
+estimator.set_hyperparameters(
+    max_depth=5,
+    eta=0.1,
+    subsample=0.7,
+    objective='binary:logistic',
+    num_round=150,
+    scale_pos_weight=1.5,  # example ratio, calculate from your data
+    early_stopping_rounds=10
+)
+
+
+from sagemaker.inputs import TrainingInput
+
+train_input = TrainingInput(
+    s3_data='s3://student-droupout-predictor/train/train.csv',
+    content_type='csv'
+)
+
+val_input = TrainingInput(
+    s3_data='s3://student-droupout-predictor/test/test.csv',
+    content_type='csv'
+)
+
+
+estimator.fit({'train': train_input, 'validation': val_input})

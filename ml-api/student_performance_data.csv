@@ -1,0 +1,1001 @@
+student_id,lecture_watch_pct,checklist_pct,attended_live_class,attended_group_discussion,qa_participation_pct,dropout,recommended_activities
+S001,79,90,1,1,76,0,"Good Job, You did Well in the Week. Keep the momentum"
+S002,67,81,1,1,65,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S003,82,66,1,0,100,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S004,100,53,1,1,13,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S005,65,77,0,1,81,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S006,65,72,0,1,78,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S007,100,81,1,1,25,1,Participate more in Q&A to clarify doubts and boost retention.
+S008,85,76,0,0,75,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S009,60,83,1,1,58,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S010,80,55,1,1,44,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S011,60,88,1,1,29,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S012,60,68,1,1,32,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S013,74,100,0,1,100,0,Attend live classes to get real-time support and stay engaged.
+S014,31,52,0,0,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S015,35,96,1,1,69,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S016,58,68,1,1,30,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S017,49,53,1,1,30,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S018,76,56,1,0,77,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S019,51,59,1,1,16,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S020,41,72,1,0,39,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S021,99,74,0,0,50,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S022,65,54,0,0,52,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S023,71,64,1,1,45,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S024,41,100,0,1,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S025,59,96,1,0,67,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S026,72,72,1,0,68,1,Join group discussions to improve collaboration and communication skills.
+S027,46,65,1,0,25,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S028,77,67,1,1,42,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S029,57,76,0,1,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S030,64,46,1,1,72,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S031,57,60,1,0,15,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S032,100,34,1,1,58,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S033,69,72,1,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S034,48,76,0,0,51,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S035,86,56,1,1,97,0,Make sure to complete all checklist items to stay on track.
+S036,45,93,1,0,26,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S037,74,42,1,1,29,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S038,30,38,1,1,69,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S039,43,69,1,1,11,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S040,73,83,1,0,34,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S041,84,95,1,1,64,1,"Good Job, You did Well in the Week. Keep the momentum"
+S042,73,56,0,1,34,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S043,67,84,0,0,44,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S044,63,64,0,1,68,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S045,40,61,1,1,60,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S046,55,80,1,1,56,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S047,60,76,1,1,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S048,91,36,0,0,59,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S049,76,91,1,1,46,0,Participate more in Q&A to clarify doubts and boost retention.
+S050,34,89,1,1,61,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S051,76,53,1,1,37,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S052,62,72,1,0,45,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S053,56,73,1,1,25,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S054,82,69,1,1,49,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S055,90,55,0,1,29,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S056,88,52,1,1,22,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S057,53,64,1,1,56,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S058,63,86,1,1,55,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S059,76,74,1,0,69,0,Join group discussions to improve collaboration and communication skills.
+S060,89,58,1,1,39,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S061,60,78,0,0,60,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S062,66,15,1,0,63,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S063,47,85,0,1,61,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S064,46,33,1,1,29,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S065,86,58,1,1,53,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S066,97,44,0,0,59,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S067,68,41,1,1,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S068,90,85,1,1,0,0,Participate more in Q&A to clarify doubts and boost retention.
+S069,77,56,1,1,54,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S070,57,71,1,0,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S071,77,64,0,0,40,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S072,100,73,1,1,31,0,Participate more in Q&A to clarify doubts and boost retention.
+S073,69,66,0,0,59,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S074,100,41,0,1,57,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S075,20,82,1,1,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S076,86,56,0,0,18,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S077,71,36,1,1,68,0,Make sure to complete all checklist items to stay on track.
+S078,64,57,0,1,64,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S079,71,92,1,1,46,0,Participate more in Q&A to clarify doubts and boost retention.
+S080,30,80,1,0,58,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S081,65,58,1,0,75,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S082,77,58,1,0,71,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S083,99,59,1,0,21,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S084,59,100,0,1,70,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S085,53,71,1,1,48,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S086,59,72,1,1,51,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S087,88,83,0,1,51,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S088,76,69,1,1,46,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S089,59,60,0,0,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S090,80,61,0,1,47,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S091,71,63,0,1,22,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S092,89,64,0,1,40,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S093,55,78,1,1,54,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S094,63,65,1,0,80,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S095,62,78,0,1,65,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S096,40,63,1,1,28,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S097,75,66,1,0,100,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S098,75,29,1,1,56,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S099,70,81,0,1,81,0,Attend live classes to get real-time support and stay engaged.
+S100,65,71,1,1,46,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S101,41,82,1,1,63,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S102,61,15,1,0,70,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S103,63,100,1,0,80,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S104,53,62,1,1,76,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S105,66,84,1,0,71,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S106,78,46,1,1,42,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S107,100,76,0,1,35,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S108,73,46,1,1,58,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S109,75,53,0,1,73,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S110,68,99,0,1,44,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S111,31,61,1,0,76,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S112,69,68,1,0,86,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S113,71,80,1,1,27,0,Participate more in Q&A to clarify doubts and boost retention.
+S114,100,73,0,1,29,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S115,66,67,1,1,46,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S116,76,71,1,1,57,0,Participate more in Q&A to clarify doubts and boost retention.
+S117,69,100,1,1,36,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S118,46,63,1,1,83,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S119,92,68,1,0,60,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S120,85,83,1,1,50,0,Participate more in Q&A to clarify doubts and boost retention.
+S121,85,84,0,1,14,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S122,51,86,1,1,17,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S123,98,76,1,1,57,1,Participate more in Q&A to clarify doubts and boost retention.
+S124,41,44,1,1,0,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S125,81,94,0,0,75,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S126,100,44,1,1,46,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S127,50,70,0,0,100,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S128,58,51,1,1,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S129,71,63,1,1,45,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S130,59,70,1,1,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S131,38,70,1,0,74,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S132,71,72,1,1,92,0,"Good Job, You did Well in the Week. Keep the momentum"
+S133,48,94,1,0,9,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S134,79,73,0,1,5,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S135,51,60,1,0,34,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S136,100,82,1,1,64,1,"Good Job, You did Well in the Week. Keep the momentum"
+S137,54,86,1,0,62,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S138,63,42,1,1,76,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S139,86,75,1,0,20,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S140,45,77,1,1,0,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S141,74,59,1,1,71,1,Make sure to complete all checklist items to stay on track.
+S142,96,89,1,1,29,0,Participate more in Q&A to clarify doubts and boost retention.
+S143,37,62,1,0,0,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S144,73,67,1,1,53,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S145,75,61,1,0,69,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S146,85,65,1,1,46,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S147,45,45,0,1,38,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S148,43,39,1,1,46,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S149,80,93,1,0,40,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S150,75,49,1,0,16,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S151,75,47,0,0,32,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S152,76,26,0,1,63,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S153,56,53,1,0,58,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S154,74,41,0,0,54,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S155,75,94,1,1,25,0,Participate more in Q&A to clarify doubts and boost retention.
+S156,55,83,1,0,45,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S157,100,52,0,0,0,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S158,79,100,0,0,54,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S159,46,82,1,0,85,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S160,83,59,1,1,13,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S161,50,20,1,1,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S162,85,100,1,0,58,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S163,93,39,0,1,81,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S164,53,35,1,0,38,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S165,89,83,1,0,32,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S166,78,100,1,0,0,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S167,86,89,1,0,52,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S168,100,75,1,1,100,0,"Good Job, You did Well in the Week. Keep the momentum"
+S169,65,75,1,1,56,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S170,54,80,0,1,49,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S171,52,78,0,1,58,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S172,53,70,1,1,49,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S173,68,66,0,1,29,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S174,76,63,0,0,70,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S175,75,51,0,0,55,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S176,86,59,1,1,50,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S177,70,34,1,1,25,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S178,99,63,1,0,82,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S179,64,47,1,1,66,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S180,100,45,1,1,36,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S181,82,68,1,1,75,0,Make sure to complete all checklist items to stay on track.
+S182,52,90,1,1,37,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S183,48,81,0,1,30,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S184,79,36,1,0,31,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S185,65,47,1,1,5,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S186,84,81,0,1,61,1,Attend live classes to get real-time support and stay engaged.
+S187,79,47,0,1,4,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S188,68,60,0,1,19,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S189,53,74,0,0,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S190,39,47,1,0,47,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S191,61,66,0,0,46,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S192,87,40,1,1,41,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S193,74,54,1,0,23,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S194,45,70,1,0,20,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S195,73,36,1,0,61,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S196,77,72,1,1,36,1,Participate more in Q&A to clarify doubts and boost retention.
+S197,52,64,1,1,57,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S198,73,74,0,1,27,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S199,71,69,1,0,54,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S200,47,89,1,1,82,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S201,77,67,0,1,64,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S202,81,57,1,0,39,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S203,91,67,1,0,56,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S204,91,74,1,0,43,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S205,42,65,1,1,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S206,51,65,1,0,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S207,80,52,0,1,45,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S208,80,53,1,1,55,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S209,80,39,1,1,25,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S210,100,96,0,1,24,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S211,81,42,0,1,15,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S212,92,52,1,0,9,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S213,89,52,1,1,19,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S214,83,81,1,0,53,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S215,63,59,1,1,27,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S216,85,87,1,1,62,0,"Good Job, You did Well in the Week. Keep the momentum"
+S217,54,52,1,1,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S218,65,70,0,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S219,60,49,1,1,66,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S220,71,100,1,1,70,1,"Good Job, You did Well in the Week. Keep the momentum"
+S221,100,43,1,1,25,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S222,32,70,1,1,60,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S223,83,76,1,1,28,1,Participate more in Q&A to clarify doubts and boost retention.
+S224,37,72,1,0,52,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S225,60,61,0,1,18,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S226,91,62,1,0,5,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S227,71,65,1,0,40,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S228,48,62,1,0,46,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S229,55,82,1,0,40,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S230,83,100,1,1,20,0,Participate more in Q&A to clarify doubts and boost retention.
+S231,55,54,1,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S232,74,40,1,0,56,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S233,70,63,1,1,48,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S234,56,100,0,1,54,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S235,100,50,0,1,33,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S236,82,94,0,0,79,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S237,29,95,0,0,20,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S238,73,55,1,1,62,0,Make sure to complete all checklist items to stay on track.
+S239,56,75,0,1,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S240,87,94,1,1,62,1,"Good Job, You did Well in the Week. Keep the momentum"
+S241,54,58,0,1,44,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S242,67,61,0,0,36,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S243,80,54,0,1,75,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S244,87,46,0,1,14,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S245,45,53,1,1,25,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S246,63,42,1,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S247,60,65,1,1,80,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S248,56,51,1,0,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S249,100,69,1,1,25,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S250,78,36,1,1,42,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S251,44,70,0,1,34,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S252,88,80,1,1,32,0,Participate more in Q&A to clarify doubts and boost retention.
+S253,100,29,0,1,74,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S254,90,71,0,0,15,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S255,39,87,0,0,90,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S256,60,43,0,0,70,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S257,95,95,1,1,77,0,"Good Job, You did Well in the Week. Keep the momentum"
+S258,55,72,0,0,38,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S259,78,52,0,1,46,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S260,85,63,1,1,14,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S261,51,75,1,1,36,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S262,68,66,0,1,62,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S263,20,74,1,0,82,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S264,49,48,1,1,22,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S265,64,68,1,1,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S266,45,39,1,0,46,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S267,100,62,1,1,15,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S268,41,48,0,1,64,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S269,61,51,1,1,31,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S270,72,87,1,0,45,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S271,98,84,1,0,38,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S272,41,75,1,1,30,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S273,93,45,0,1,49,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S274,70,59,1,1,44,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S275,50,86,1,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S276,79,67,1,1,31,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S277,73,100,1,1,57,0,Participate more in Q&A to clarify doubts and boost retention.
+S278,57,72,0,1,91,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S279,71,68,0,1,53,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S280,62,59,1,1,74,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S281,72,67,1,0,15,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S282,83,62,1,1,53,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S283,100,77,1,1,22,0,Participate more in Q&A to clarify doubts and boost retention.
+S284,45,82,1,0,13,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S285,100,50,1,0,31,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S286,30,41,1,1,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S287,66,31,1,1,73,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S288,81,74,0,1,56,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S289,75,45,0,0,11,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S290,57,26,1,1,45,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S291,65,71,0,0,57,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S292,60,100,1,0,54,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S293,58,64,1,1,3,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S294,86,80,0,1,27,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S295,77,66,0,1,48,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S296,56,63,0,1,63,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S297,87,81,1,1,0,0,Participate more in Q&A to clarify doubts and boost retention.
+S298,76,59,1,0,45,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S299,86,69,0,0,53,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S300,82,70,1,1,71,1,"Good Job, You did Well in the Week. Keep the momentum"
+S301,53,52,1,0,67,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S302,58,82,1,1,64,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S303,84,61,1,1,30,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S304,82,51,1,1,2,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S305,69,74,1,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S306,72,48,0,0,75,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S307,95,65,1,0,84,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S308,58,64,1,1,67,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S309,80,84,1,1,60,0,"Good Job, You did Well in the Week. Keep the momentum"
+S310,65,73,1,1,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S311,65,64,1,1,36,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S312,91,79,1,0,46,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S313,86,90,0,0,91,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S314,86,75,1,0,26,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S315,96,65,0,1,90,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S316,70,41,1,1,41,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S317,83,45,1,1,83,0,Make sure to complete all checklist items to stay on track.
+S318,63,59,1,1,14,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S319,76,54,1,1,64,1,Make sure to complete all checklist items to stay on track.
+S320,67,61,0,0,31,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S321,71,66,1,0,14,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S322,81,74,1,1,55,0,Participate more in Q&A to clarify doubts and boost retention.
+S323,53,63,0,1,75,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S324,100,73,0,1,28,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S325,49,66,0,1,12,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S326,45,29,1,0,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S327,93,48,0,1,47,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S328,85,62,1,1,63,0,Make sure to complete all checklist items to stay on track.
+S329,82,43,1,1,73,0,Make sure to complete all checklist items to stay on track.
+S330,82,75,1,0,48,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S331,69,92,1,1,96,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S332,52,86,1,1,55,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S333,71,61,1,1,41,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S334,56,91,0,0,9,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S335,89,67,1,0,43,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S336,67,58,1,1,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S337,53,53,1,0,74,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S338,63,59,0,0,61,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S339,78,58,1,0,20,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S340,58,68,1,0,54,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S341,53,67,0,0,66,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S342,74,65,0,1,88,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S343,74,72,1,0,72,0,Join group discussions to improve collaboration and communication skills.
+S344,59,86,1,1,69,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S345,60,82,0,0,51,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S346,74,38,1,1,59,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S347,41,19,1,0,81,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S348,41,81,0,0,16,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S349,55,40,1,1,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S350,65,60,1,0,30,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S351,76,43,1,1,59,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S352,99,32,1,0,80,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S353,87,74,1,1,35,0,Participate more in Q&A to clarify doubts and boost retention.
+S354,66,78,0,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S355,69,54,1,0,39,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S356,49,18,1,1,72,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S357,69,55,1,0,63,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S358,64,72,1,1,60,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S359,76,38,0,1,43,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S360,53,68,1,1,18,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S361,80,64,1,1,62,1,Make sure to complete all checklist items to stay on track.
+S362,100,75,1,1,29,0,Participate more in Q&A to clarify doubts and boost retention.
+S363,67,67,1,1,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S364,78,47,1,1,64,0,Make sure to complete all checklist items to stay on track.
+S365,83,86,0,1,35,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S366,61,62,0,0,34,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S367,74,64,1,0,47,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S368,70,48,1,1,44,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S369,71,57,0,0,77,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S370,54,49,0,1,54,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S371,70,61,1,0,31,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S372,79,95,1,0,97,1,Join group discussions to improve collaboration and communication skills.
+S373,99,40,1,0,51,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S374,89,35,0,1,69,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S375,100,91,0,0,34,1,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S376,54,61,1,1,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S377,87,52,1,0,57,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S378,73,83,0,1,2,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S379,100,54,0,0,100,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S380,53,97,0,0,82,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S381,53,77,0,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S382,58,56,1,1,22,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S383,27,100,1,0,58,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S384,59,54,1,1,52,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S385,54,78,1,0,58,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S386,73,70,1,1,54,0,Participate more in Q&A to clarify doubts and boost retention.
+S387,76,88,0,1,62,0,Attend live classes to get real-time support and stay engaged.
+S388,100,93,1,1,86,0,"Good Job, You did Well in the Week. Keep the momentum"
+S389,89,65,0,1,64,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S390,58,51,1,1,23,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S391,52,73,0,1,84,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S392,79,52,1,1,91,0,Make sure to complete all checklist items to stay on track.
+S393,43,100,1,0,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S394,100,67,1,0,21,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S395,93,58,1,1,56,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S396,60,68,0,1,0,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S397,35,40,0,1,63,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S398,97,47,1,1,36,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S399,67,86,1,0,98,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S400,94,53,1,0,30,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S401,38,46,1,1,7,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S402,58,74,0,1,38,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S403,70,86,0,1,0,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S404,70,77,1,0,68,0,Join group discussions to improve collaboration and communication skills.
+S405,60,82,0,0,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S406,82,51,1,1,50,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S407,48,39,0,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S408,67,92,1,0,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S409,72,59,0,0,91,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S410,80,60,0,1,59,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S411,84,88,1,1,28,0,Participate more in Q&A to clarify doubts and boost retention.
+S412,47,75,0,1,49,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S413,39,73,1,1,50,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S414,95,100,1,1,61,1,"Good Job, You did Well in the Week. Keep the momentum"
+S415,76,53,1,1,15,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S416,55,81,0,1,64,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S417,100,66,0,1,0,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S418,72,69,0,0,34,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S419,93,92,0,1,37,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S420,71,74,1,1,65,0,"Good Job, You did Well in the Week. Keep the momentum"
+S421,100,74,0,1,50,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S422,100,84,1,1,14,1,Participate more in Q&A to clarify doubts and boost retention.
+S423,65,58,1,0,25,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S424,89,49,1,1,54,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S425,82,46,0,1,48,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S426,97,29,0,0,35,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S427,50,100,1,1,37,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S428,83,45,1,0,67,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S429,91,61,0,1,37,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S430,34,60,1,1,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S431,46,70,0,1,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S432,29,79,0,1,14,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S433,64,80,1,0,3,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S434,84,54,1,0,69,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S435,100,61,0,1,33,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S436,71,70,0,1,42,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S437,100,60,1,0,30,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S438,42,93,0,0,43,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S439,35,73,1,1,89,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S440,68,78,1,1,70,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S441,77,76,0,1,71,1,Attend live classes to get real-time support and stay engaged.
+S442,69,86,0,0,14,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S443,28,68,1,1,21,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S444,68,41,0,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S445,43,72,1,0,29,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S446,83,53,1,1,73,1,Make sure to complete all checklist items to stay on track.
+S447,77,55,1,1,62,0,Make sure to complete all checklist items to stay on track.
+S448,51,75,0,1,44,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S449,59,87,1,1,49,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S450,48,65,1,1,32,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S451,68,70,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S452,89,95,0,1,69,0,Attend live classes to get real-time support and stay engaged.
+S453,50,69,1,1,9,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S454,80,100,0,0,57,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S455,59,75,1,0,73,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S456,54,33,1,1,39,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S457,67,78,1,1,67,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S458,49,71,0,1,100,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S459,58,88,0,1,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S460,46,77,1,1,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S461,100,62,1,0,31,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S462,70,42,1,1,54,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S463,56,61,1,1,61,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S464,74,49,1,1,54,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S465,67,54,1,0,24,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S466,65,75,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S467,82,95,1,0,86,1,Join group discussions to improve collaboration and communication skills.
+S468,85,72,1,1,61,0,"Good Job, You did Well in the Week. Keep the momentum"
+S469,59,43,0,0,74,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S470,58,73,1,0,44,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S471,64,86,1,1,68,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S472,23,54,0,1,56,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S473,39,62,1,1,26,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S474,97,65,1,1,57,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S475,100,50,1,0,25,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S476,65,76,1,0,34,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S477,81,62,1,0,54,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S478,76,72,1,0,57,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S479,100,49,0,1,20,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S480,92,57,1,1,76,0,Make sure to complete all checklist items to stay on track.
+S481,67,78,1,0,64,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S482,50,58,1,1,32,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S483,37,96,1,0,11,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S484,74,57,1,1,46,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S485,54,69,0,1,38,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S486,41,81,1,0,52,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S487,57,39,1,1,40,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S488,48,33,1,0,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S489,100,37,1,0,40,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S490,87,87,0,0,42,1,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S491,69,55,1,0,65,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S492,99,100,1,1,32,0,Participate more in Q&A to clarify doubts and boost retention.
+S493,71,54,1,0,91,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S494,52,68,0,1,2,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S495,100,92,1,1,82,0,"Good Job, You did Well in the Week. Keep the momentum"
+S496,80,100,1,0,44,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S497,49,100,0,1,71,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S498,66,86,0,1,51,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S499,52,83,1,1,78,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S500,42,75,1,1,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S501,88,79,1,0,22,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S502,100,55,1,1,85,0,Make sure to complete all checklist items to stay on track.
+S503,42,50,1,0,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S504,81,64,1,0,55,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S505,56,61,1,0,80,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S506,60,56,1,1,24,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S507,58,77,1,0,64,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S508,52,82,0,1,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S509,70,66,1,0,46,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S510,53,91,1,1,51,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S511,75,44,1,0,12,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S512,68,61,0,0,30,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S513,65,52,1,1,83,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S514,51,31,1,1,72,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S515,58,63,1,0,48,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S516,85,62,1,1,56,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S517,80,92,1,0,42,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S518,50,76,1,1,83,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S519,71,46,1,1,44,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S520,85,98,0,0,55,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S521,36,86,1,0,78,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S522,80,75,1,0,30,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S523,56,60,0,1,88,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S524,81,47,1,0,11,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S525,54,58,1,1,90,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S526,33,84,1,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S527,37,98,1,0,43,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S528,70,92,0,1,2,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S529,75,56,0,1,38,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S530,51,44,1,1,24,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S531,82,67,1,0,34,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S532,36,33,0,1,46,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S533,68,70,0,0,73,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S534,45,62,0,1,55,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S535,56,56,1,0,57,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S536,70,36,1,0,22,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S537,52,74,0,1,27,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S538,62,55,1,1,94,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S539,90,43,1,1,31,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S540,58,15,1,0,91,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S541,86,64,1,0,43,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S542,47,96,1,1,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S543,80,94,1,0,76,0,Join group discussions to improve collaboration and communication skills.
+S544,98,56,0,1,81,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S545,20,54,1,1,47,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S546,54,73,0,0,40,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S547,81,47,1,1,48,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S548,65,70,1,1,58,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S549,77,78,0,1,72,0,Attend live classes to get real-time support and stay engaged.
+S550,57,87,1,1,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S551,71,63,1,1,65,1,Make sure to complete all checklist items to stay on track.
+S552,66,61,1,1,90,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S553,93,49,1,0,59,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S554,75,50,0,1,57,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S555,76,60,0,1,12,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S556,61,71,1,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S557,60,81,1,1,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S558,61,50,1,0,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S559,77,91,0,0,37,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S560,61,60,1,1,56,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S561,75,64,1,0,48,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S562,100,51,1,1,78,1,Make sure to complete all checklist items to stay on track.
+S563,87,21,1,1,52,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S564,63,80,1,1,31,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S565,94,78,0,1,74,0,Attend live classes to get real-time support and stay engaged.
+S566,61,59,1,1,44,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S567,29,66,1,0,63,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S568,49,74,0,1,38,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S569,32,36,0,0,33,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S570,62,55,1,1,52,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S571,70,79,1,1,50,0,Participate more in Q&A to clarify doubts and boost retention.
+S572,100,42,1,0,61,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S573,76,70,1,1,43,0,Participate more in Q&A to clarify doubts and boost retention.
+S574,65,40,1,1,4,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S575,86,73,1,0,39,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S576,25,64,1,0,69,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S577,74,35,0,0,42,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S578,85,85,1,0,43,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S579,40,51,1,0,74,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S580,92,50,1,0,32,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S581,76,68,0,1,11,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S582,61,85,0,1,45,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S583,82,46,0,1,37,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S584,100,66,0,1,25,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S585,73,72,0,0,45,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S586,74,77,1,0,62,0,Join group discussions to improve collaboration and communication skills.
+S587,60,68,1,1,49,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S588,53,58,1,1,57,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S589,86,50,0,0,95,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S590,52,66,0,1,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S591,71,45,1,0,56,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S592,60,15,1,1,37,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S593,79,72,1,1,28,1,Participate more in Q&A to clarify doubts and boost retention.
+S594,76,81,0,1,35,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S595,90,22,1,1,38,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S596,59,46,1,0,58,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S597,64,76,1,0,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S598,50,100,1,0,32,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S599,61,65,0,1,39,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S600,77,51,1,1,48,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S601,85,61,0,0,59,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S602,51,89,1,0,56,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S603,87,53,1,1,82,0,Make sure to complete all checklist items to stay on track.
+S604,97,50,1,1,0,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S605,78,56,0,0,0,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S606,100,47,1,1,37,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S607,54,67,1,1,77,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S608,45,94,1,1,10,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S609,34,70,0,1,0,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S610,99,60,1,0,64,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S611,83,59,0,0,56,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S612,68,36,1,1,22,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S613,75,80,1,1,25,0,Participate more in Q&A to clarify doubts and boost retention.
+S614,47,63,1,1,25,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S615,100,61,1,1,52,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S616,72,100,1,1,34,0,Participate more in Q&A to clarify doubts and boost retention.
+S617,72,70,1,0,62,1,Join group discussions to improve collaboration and communication skills.
+S618,84,51,1,1,0,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S619,79,57,0,1,28,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S620,74,85,1,1,21,0,Participate more in Q&A to clarify doubts and boost retention.
+S621,54,67,0,1,43,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S622,79,39,1,1,36,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S623,100,81,1,1,69,0,"Good Job, You did Well in the Week. Keep the momentum"
+S624,96,52,1,0,3,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S625,100,98,1,1,51,1,Participate more in Q&A to clarify doubts and boost retention.
+S626,59,84,1,1,63,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S627,50,56,1,0,96,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S628,67,88,1,0,37,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S629,71,66,1,1,58,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S630,91,80,0,0,4,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S631,36,73,0,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S632,100,49,1,1,71,0,Make sure to complete all checklist items to stay on track.
+S633,66,53,1,1,49,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S634,61,83,1,0,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S635,49,58,1,0,15,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S636,36,57,1,1,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S637,86,47,1,1,96,1,Make sure to complete all checklist items to stay on track.
+S638,71,72,1,0,60,0,Join group discussions to improve collaboration and communication skills.
+S639,44,100,1,1,56,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S640,44,45,1,1,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S641,63,65,0,0,10,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S642,100,90,0,0,83,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S643,64,63,1,0,34,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S644,39,73,0,0,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S645,65,45,0,1,10,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S646,64,72,1,0,20,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S647,20,61,1,0,85,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S648,68,82,1,1,41,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S649,65,86,0,1,86,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S650,83,100,0,1,48,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S651,100,75,1,1,3,0,Participate more in Q&A to clarify doubts and boost retention.
+S652,92,70,1,0,72,0,Join group discussions to improve collaboration and communication skills.
+S653,64,68,1,0,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S654,47,58,1,1,67,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S655,100,71,1,1,50,0,Participate more in Q&A to clarify doubts and boost retention.
+S656,71,59,0,0,11,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S657,70,68,1,1,54,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S658,69,88,0,1,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S659,73,46,0,1,62,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S660,67,85,0,1,48,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S661,58,88,1,1,76,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S662,59,62,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S663,69,26,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S664,59,54,1,1,22,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S665,55,88,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S666,72,64,1,1,75,0,Make sure to complete all checklist items to stay on track.
+S667,64,47,1,0,29,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S668,100,55,1,0,85,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S669,20,80,1,1,47,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S670,91,74,1,1,27,0,Participate more in Q&A to clarify doubts and boost retention.
+S671,94,60,0,0,74,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S672,28,58,0,1,42,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S673,63,57,1,1,68,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S674,62,48,1,0,42,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S675,41,94,1,0,48,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S676,54,59,1,0,62,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S677,47,86,1,1,57,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S678,100,92,0,0,0,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S679,88,82,1,1,21,0,Participate more in Q&A to clarify doubts and boost retention.
+S680,95,57,1,0,73,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S681,84,72,1,1,46,1,Participate more in Q&A to clarify doubts and boost retention.
+S682,47,64,1,1,36,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S683,59,48,1,0,16,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S684,79,70,1,1,23,1,Participate more in Q&A to clarify doubts and boost retention.
+S685,45,43,1,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S686,84,86,1,0,47,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S687,65,56,1,1,35,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S688,62,68,1,1,25,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S689,84,70,1,1,48,0,Participate more in Q&A to clarify doubts and boost retention.
+S690,78,60,0,0,59,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S691,62,75,1,0,100,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S692,93,56,1,1,12,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S693,48,80,1,0,78,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S694,82,40,1,1,74,0,Make sure to complete all checklist items to stay on track.
+S695,81,67,1,0,30,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S696,63,99,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S697,76,46,0,1,38,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S698,44,52,1,0,54,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S699,88,74,1,1,87,0,"Good Job, You did Well in the Week. Keep the momentum"
+S700,66,68,1,1,65,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S701,59,71,0,1,62,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S702,90,73,1,0,39,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S703,55,76,1,1,12,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S704,41,84,1,1,44,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S705,38,72,1,1,80,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S706,82,60,1,1,11,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S707,44,77,1,1,23,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S708,100,99,1,0,53,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S709,28,62,1,0,25,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S710,100,47,1,1,30,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S711,74,84,1,1,39,1,Participate more in Q&A to clarify doubts and boost retention.
+S712,68,62,0,1,15,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S713,59,25,1,1,25,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S714,77,80,1,0,67,0,Join group discussions to improve collaboration and communication skills.
+S715,69,55,1,1,17,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S716,92,63,1,1,10,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S717,72,70,0,0,34,1,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S718,73,68,1,1,68,0,Make sure to complete all checklist items to stay on track.
+S719,62,77,1,0,45,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S720,68,57,1,1,38,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S721,76,74,1,0,51,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S722,35,60,1,0,6,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S723,43,78,1,0,62,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S724,84,76,1,0,59,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S725,73,48,0,1,39,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S726,66,84,1,1,75,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S727,70,55,0,0,21,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S728,76,79,0,1,78,0,Attend live classes to get real-time support and stay engaged.
+S729,59,71,0,1,53,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S730,54,98,1,1,41,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S731,73,60,1,1,49,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S732,50,58,0,1,47,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S733,78,64,1,1,80,1,Make sure to complete all checklist items to stay on track.
+S734,35,59,1,0,23,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S735,90,79,0,1,30,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S736,79,35,0,1,75,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S737,75,46,1,1,35,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S738,89,45,1,1,72,0,Make sure to complete all checklist items to stay on track.
+S739,100,82,1,0,92,0,Join group discussions to improve collaboration and communication skills.
+S740,90,95,0,1,39,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S741,33,63,0,1,67,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S742,44,61,1,0,21,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S743,57,66,1,1,68,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S744,70,85,0,1,54,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S745,80,48,1,1,61,0,Make sure to complete all checklist items to stay on track.
+S746,55,69,1,0,33,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S747,73,82,0,1,8,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S748,54,74,1,1,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S749,57,68,1,1,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S750,41,83,1,1,42,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S751,51,16,1,1,73,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S752,42,77,0,1,54,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S753,50,53,1,1,98,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S754,91,32,0,0,75,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S755,51,74,1,0,33,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S756,100,89,1,1,50,1,Participate more in Q&A to clarify doubts and boost retention.
+S757,79,62,1,0,48,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S758,73,82,1,1,10,0,Participate more in Q&A to clarify doubts and boost retention.
+S759,52,94,1,1,26,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S760,84,88,1,0,35,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S761,58,94,1,0,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S762,72,78,1,0,51,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S763,100,66,0,1,43,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S764,68,36,1,0,8,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S765,92,60,0,1,60,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S766,55,49,1,0,67,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S767,69,100,1,0,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S768,100,61,1,1,41,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S769,57,67,1,0,64,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S770,100,74,1,1,67,0,"Good Job, You did Well in the Week. Keep the momentum"
+S771,84,65,0,1,57,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S772,58,95,0,1,29,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S773,82,53,1,1,56,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S774,89,68,1,0,79,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S775,82,51,0,0,35,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S776,38,41,1,1,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S777,55,53,0,0,36,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S778,65,64,0,0,50,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S779,68,57,0,1,33,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S780,82,52,1,0,55,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S781,73,39,1,1,6,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S782,43,63,1,0,36,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S783,77,37,1,1,22,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S784,82,78,0,1,53,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S785,81,66,1,1,74,1,Make sure to complete all checklist items to stay on track.
+S786,91,38,1,0,66,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S787,86,59,0,1,0,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S788,79,51,0,1,100,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S789,68,70,0,1,57,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S790,36,89,0,0,30,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S791,78,31,1,1,53,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S792,74,67,1,1,54,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S793,75,62,0,1,33,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S794,44,77,1,1,54,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S795,48,68,1,0,34,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S796,91,51,1,0,39,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S797,69,59,1,1,32,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S798,83,50,0,1,14,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S799,70,84,1,0,53,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S800,70,65,1,1,64,0,Make sure to complete all checklist items to stay on track.
+S801,88,99,1,0,62,1,Join group discussions to improve collaboration and communication skills.
+S802,59,63,1,0,70,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S803,71,52,1,0,58,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S804,60,37,1,1,36,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S805,61,32,0,1,70,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S806,63,36,1,0,16,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S807,74,69,1,1,27,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S808,60,74,1,0,25,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S809,95,36,1,1,77,0,Make sure to complete all checklist items to stay on track.
+S810,52,81,1,0,73,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S811,66,56,0,1,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S812,61,67,1,1,76,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S813,98,94,0,1,28,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S814,73,81,1,0,58,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S815,90,60,1,0,46,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S816,40,48,1,1,71,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S817,75,26,0,1,47,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S818,87,52,1,0,40,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S819,71,61,1,1,63,0,Make sure to complete all checklist items to stay on track.
+S820,91,47,1,1,71,0,Make sure to complete all checklist items to stay on track.
+S821,59,62,1,1,33,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S822,98,66,1,1,48,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S823,100,60,1,1,23,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S824,62,53,1,1,0,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S825,61,68,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S826,99,72,1,1,65,1,"Good Job, You did Well in the Week. Keep the momentum"
+S827,100,45,0,1,56,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S828,59,90,0,1,1,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S829,61,63,0,1,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S830,64,65,1,0,0,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S831,43,77,1,1,84,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S832,51,69,1,1,22,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S833,49,82,1,1,81,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S834,54,70,1,1,73,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S835,69,53,1,1,27,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S836,74,71,1,1,21,0,Participate more in Q&A to clarify doubts and boost retention.
+S837,100,44,1,0,58,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S838,50,66,0,1,28,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S839,89,64,1,0,52,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S840,65,61,1,1,37,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S841,69,62,1,1,5,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S842,83,31,1,1,0,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S843,47,55,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S844,77,66,0,1,35,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S845,73,67,0,0,36,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S846,79,46,1,1,67,1,Make sure to complete all checklist items to stay on track.
+S847,75,87,0,0,79,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S848,100,49,0,0,43,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S849,57,82,0,1,41,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S850,59,72,0,1,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S851,57,53,1,1,16,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S852,58,96,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S853,57,43,1,1,63,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S854,93,81,1,1,67,0,"Good Job, You did Well in the Week. Keep the momentum"
+S855,98,83,0,1,1,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S856,58,52,1,1,30,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S857,53,90,0,0,28,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S858,79,60,0,0,52,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S859,58,70,0,0,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S860,82,69,0,1,87,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S861,74,62,1,1,37,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S862,39,79,1,1,37,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S863,100,79,1,1,78,0,"Good Job, You did Well in the Week. Keep the momentum"
+S864,100,33,1,1,57,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S865,57,88,1,0,81,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S866,62,35,1,0,57,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S867,75,83,0,1,21,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S868,76,85,1,1,16,1,Participate more in Q&A to clarify doubts and boost retention.
+S869,83,45,1,1,11,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S870,100,57,1,1,66,1,Make sure to complete all checklist items to stay on track.
+S871,66,45,1,1,79,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S872,54,61,1,1,96,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S873,42,59,0,1,71,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S874,55,79,1,0,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S875,69,88,0,1,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S876,100,90,1,0,21,1,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S877,59,54,0,1,71,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S878,74,61,1,1,60,0,Make sure to complete all checklist items to stay on track.
+S879,69,34,1,1,52,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S880,93,50,1,1,59,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S881,100,82,0,1,58,1,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S882,59,94,1,0,82,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S883,60,42,1,0,82,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S884,90,54,0,1,63,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S885,83,64,0,1,71,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S886,100,70,1,0,62,0,Join group discussions to improve collaboration and communication skills.
+S887,81,50,0,1,38,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S888,62,72,1,1,68,1,Increase your lecture video completion to at least 80% to strengthen understanding.
+S889,81,56,1,1,15,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S890,92,64,1,0,76,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S891,86,74,0,0,20,0,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S892,80,65,0,1,57,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S893,91,57,1,0,28,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S894,93,63,1,0,63,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S895,97,63,1,1,49,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S896,82,58,0,1,10,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S897,66,60,0,1,60,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S898,72,93,1,0,35,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S899,94,75,0,1,72,0,Attend live classes to get real-time support and stay engaged.
+S900,53,59,0,0,50,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S901,77,77,1,1,59,0,Participate more in Q&A to clarify doubts and boost retention.
+S902,62,58,1,0,26,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S903,70,86,1,1,35,1,Participate more in Q&A to clarify doubts and boost retention.
+S904,95,71,1,1,38,1,Participate more in Q&A to clarify doubts and boost retention.
+S905,73,63,1,0,71,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S906,70,73,1,0,91,0,Join group discussions to improve collaboration and communication skills.
+S907,42,36,0,0,29,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S908,84,44,1,1,76,0,Make sure to complete all checklist items to stay on track.
+S909,82,43,1,0,0,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S910,100,67,1,1,20,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S911,63,96,1,1,26,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S912,74,100,1,1,16,0,Participate more in Q&A to clarify doubts and boost retention.
+S913,74,76,1,1,10,0,Participate more in Q&A to clarify doubts and boost retention.
+S914,100,74,1,1,60,1,"Good Job, You did Well in the Week. Keep the momentum"
+S915,68,32,1,0,44,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S916,75,55,1,1,59,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S917,82,50,1,0,67,0,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S918,73,53,0,1,56,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S919,61,61,1,1,66,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S920,73,56,1,1,48,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S921,91,29,0,0,20,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S922,49,78,1,0,76,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S923,72,45,1,0,35,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S924,55,69,0,0,26,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S925,93,100,1,1,45,0,Participate more in Q&A to clarify doubts and boost retention.
+S926,39,48,1,1,27,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S927,58,19,0,0,39,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S928,77,59,0,1,58,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S929,100,84,0,1,58,0,Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S930,68,100,1,1,27,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S931,58,42,1,1,37,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S932,100,73,1,1,76,0,"Good Job, You did Well in the Week. Keep the momentum"
+S933,41,56,1,1,62,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S934,26,63,1,1,100,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S935,78,100,1,1,79,0,"Good Job, You did Well in the Week. Keep the momentum"
+S936,59,37,0,1,78,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S937,49,69,1,1,15,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S938,84,73,1,0,69,0,Join group discussions to improve collaboration and communication skills.
+S939,74,84,1,1,48,1,Participate more in Q&A to clarify doubts and boost retention.
+S940,58,66,1,1,36,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S941,44,70,1,0,54,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S942,87,57,1,1,73,0,Make sure to complete all checklist items to stay on track.
+S943,83,69,1,1,62,1,Make sure to complete all checklist items to stay on track.
+S944,68,58,1,0,28,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S945,100,76,0,1,68,0,Attend live classes to get real-time support and stay engaged.
+S946,48,58,0,0,34,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S947,39,71,1,0,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S948,56,64,1,0,42,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S949,69,85,0,1,44,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S950,74,64,0,1,69,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S951,65,33,1,1,23,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S952,77,87,0,1,98,0,Attend live classes to get real-time support and stay engaged.
+S953,44,48,1,1,4,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S954,98,53,0,1,35,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S955,68,54,0,1,59,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S956,92,89,1,1,64,0,"Good Job, You did Well in the Week. Keep the momentum"
+S957,76,26,0,1,47,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S958,79,100,1,1,48,0,Participate more in Q&A to clarify doubts and boost retention.
+S959,81,84,0,0,60,1,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S960,78,69,1,1,44,1,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S961,82,64,0,1,84,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S962,96,70,1,0,70,1,Join group discussions to improve collaboration and communication skills.
+S963,73,74,1,1,71,1,"Good Job, You did Well in the Week. Keep the momentum"
+S964,84,76,1,1,25,0,Participate more in Q&A to clarify doubts and boost retention.
+S965,68,75,0,1,48,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S966,98,66,0,0,42,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S967,56,61,0,1,24,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S968,100,62,0,1,59,0,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S969,69,61,1,1,36,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S970,41,85,1,0,66,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S971,72,75,1,1,23,1,Participate more in Q&A to clarify doubts and boost retention.
+S972,56,15,1,1,92,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S973,86,76,1,0,27,0,Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S974,56,68,1,1,55,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S975,61,64,1,0,69,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S976,32,58,1,1,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S977,60,85,1,0,71,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Join group discussions to improve collaboration and communication skills.
+S978,21,82,1,1,19,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S979,38,51,0,0,86,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.
+S980,85,72,0,0,50,1,Attend live classes to get real-time support and stay engaged.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.
+S981,85,47,0,1,35,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S982,78,40,1,1,42,0,Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S983,50,53,1,1,70,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.
+S984,69,80,0,1,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.;Participate more in Q&A to clarify doubts and boost retention.
+S985,69,82,1,1,31,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S986,46,74,1,1,44,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S987,100,78,1,1,20,0,Participate more in Q&A to clarify doubts and boost retention.
+S988,87,74,1,1,95,1,"Good Job, You did Well in the Week. Keep the momentum"
+S989,65,53,1,1,35,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S990,70,72,1,0,70,0,Join group discussions to improve collaboration and communication skills.
+S991,74,79,1,1,55,0,Participate more in Q&A to clarify doubts and boost retention.
+S992,29,78,1,1,25,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S993,65,86,1,1,49,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S994,56,77,0,1,69,1,Increase your lecture video completion to at least 80% to strengthen understanding.;Attend live classes to get real-time support and stay engaged.
+S995,49,71,1,1,45,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Participate more in Q&A to clarify doubts and boost retention.
+S996,64,84,1,1,79,0,Increase your lecture video completion to at least 80% to strengthen understanding.
+S997,100,64,0,1,75,1,Make sure to complete all checklist items to stay on track.;Attend live classes to get real-time support and stay engaged.
+S998,82,49,1,0,72,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.
+S999,58,62,1,1,38,0,Increase your lecture video completion to at least 80% to strengthen understanding.;Make sure to complete all checklist items to stay on track.;Participate more in Q&A to clarify doubts and boost retention.
+S1000,81,51,1,0,23,1,Make sure to complete all checklist items to stay on track.;Join group discussions to improve collaboration and communication skills.;Participate more in Q&A to clarify doubts and boost retention.

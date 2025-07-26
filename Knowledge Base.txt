@@ -1,0 +1,114 @@
+1. What is this app about?
+This app helps predict the risk of a student dropping out based on their academic and engagement data. It uses a machine learning model to analyze key indicators and give actionable insights.
+
+2. How does the dropout prediction work?
+The prediction is based on a trained machine learning model. It analyzes factors like:
+
+Attendance records
+
+Course grades
+
+Assignment completion
+
+Participation in discussions and live classes
+
+Engagement with learning materials
+
+Based on this data, the model predicts whether a student is at risk, moderate risk, or low risk of dropping out.
+
+3. What do the risk levels mean?
+Low Risk: The student is likely to continue their studies successfully.
+
+Moderate Risk: Some warning signs exist. Support may be needed.
+
+High Risk: Immediate attention is recommended. The student is at significant risk of dropping out.
+
+4. What data is used to predict dropout?
+The app uses:
+
+Student engagement data (lecture watching %, checklist completion %, participation in Q&A)
+
+Academic data (grades, test scores)
+
+Attendance in live classes or group discussions
+
+Historical trends (from past students)
+
+5. Is my data safe?
+Yes. All student data is handled securely and privately. We comply with data protection regulations (e.g., GDPR). Your data is only used for analysis within the app and never shared with third parties.
+
+6. I got a "High Risk" prediction. What should I do?
+Don’t worry—this is just a signal that support is needed. You can:
+
+Talk to an academic advisor
+
+Improve attendance and participation
+
+Complete checklists and assignments on time
+
+Engage in discussions and seek help from instructors
+
+The earlier you act, the better the outcome!
+
+7. Can the prediction be wrong?
+Yes. While the model is trained on accurate historical data, it's still a prediction. Unexpected life events or sudden improvements may affect the result. Use it as a guide, not a final decision.
+
+8. Can I improve my prediction?
+Absolutely. You can improve your prediction by:
+
+Attending all classes
+
+Submitting all assignments on time
+
+Watching all lectures
+
+Participating in group discussions and Q&As
+
+The model will adjust the prediction as new data comes in.
+
+9. Who can see my results?
+Only you and authorized staff (like your academic advisor) can access your prediction results.
+
+10. I don’t understand my prediction. Can someone explain?
+Yes. The system explains key factors behind your prediction. If you need more clarity, you can request a human advisor to review and interpret the result.
+
+11. What support is available for at-risk students?
+We offer:
+
+Personalized study plans
+
+One-on-one academic coaching
+
+Mental health support
+
+Peer mentoring and tutoring sessions
+
+You can book any of these via your dashboard or reach out to your assigned advisor.
+
+12. How often is my risk status updated?
+Your risk level is updated weekly based on the latest data.
+
+13. Can I talk to a human advisor?
+Yes. If you need personal support, you can request to speak with a human advisor. The chatbot can help you book an appointment.
+
+14. Can I use this app on mobile?
+Yes. The app is available as a responsive web app and is optimized for use on mobile devices.
+
+15. I found an error in my data. What should I do?
+You can report errors through the support form in the app. An academic coordinator will review and correct the data if necessary.
+
+🔧 Technical Support Questions
+16. I can't log in. What should I do?
+Try resetting your password using the "Forgot Password?" link. If that doesn’t work, contact our support team via email or chat.
+
+17. How do I update my profile or academic info?
+Log in to your dashboard, go to "Settings", and make the necessary changes. For sensitive fields, admin approval may be required.
+
+18. Is this tool available for instructors?
+Yes. Instructors have a dashboard that allows them to see anonymized risk levels across their classes and help at-risk students earlier.
+
+19. Can this be used by universities?
+Yes. The platform is designed for educational institutions to monitor and reduce student dropouts with data-driven support.
+
+20. Who built this app?
+This app was built by a team of educators, data scientists, and developers aiming to reduce dropout rates through AI-powered early warning systems.

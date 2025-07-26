@@ -1,0 +1,394 @@
+
+PROCEDURES TO DEPLOY FLASK ML API
+# --------------------------------------------
+# Flask API Deployment Script for AWS EC2
+# Author: [Mesele Worku]
+# Purpose: Educational setup for a Flask ML API
+# --------------------------------------------
+
+# Step 1: Update system packages
+echo "🔄 Updating system packages..."
+sudo apt update
+
+# Step 2: Install Python, pip and virtual environment support
+echo "🐍 Installing Python and pip..."
+sudo apt install python3-pip python3-venv -y
+
+# Step 3: Create a virtual environment for the project
+echo "📦 Creating Python virtual environment..."
+python3 -m venv venv
+
+# Step 4: Activate the virtual environment
+echo "🚀 Activating virtual environment..."
+source venv/bin/activate
+
+# Step 5: Install required Python libraries for the Flask API and ML model
+echo "📚 Installing Flask and ML dependencies..."
+pip install flask flask-cors joblib numpy scikit-learn
+
+# Uncomment below if using xgboost instead of scikit-learn
+# pip install flask flask-cors xgboost numpy
+
+# Step 6: Clone your project from GitHub or upload manually using SCP
+# You can also upload files manually via scp:
+# scp -i your-key.pem -r ./local-folder ubuntu@public-ip:~/folder
+echo "📁 [Manual step] Upload your Flask project files to this EC2 instance"
+
+# Step 7: Ensure your Flask app runs publicly
+# In your app.py, make sure you have:
+# app.run(host="0.0.0.0", port=5000)
+
+# Step 8: Run the Flask server
+echo "▶️ Starting Flask API server..."
+python3 app.py
+
+# You should see: * Running on http://0.0.0.0:5000
+
+# Step 9: [Manual step] Open port 5000 in AWS EC2 security group
+# Inbound rule:
+# - Type: Custom TCP
+# - Port: 5000
+# - Source: 0.0.0.0/0
+
+# Step 10: Test the API using curl (from your local machine)
+curl -X POST http://54.196.147.5:5000/predict \
+   -H "Content-Type: application/json" \
+   -d '{
+     "lecture_watch_pct": 45.5,
+     "checklist_pct": 72.3,
+     "attended_live_class": 1,
+     "attended_group_discussion": 1,
+     "qa_participation_pct": 58.7
+   }'
+
+# Done 🎉
+
+
+
+
+
+#!/bin/bash
+
+# --------------------------------------------
+# Node.js Backend Deployment Script for AWS EC2
+# Author: [Mesele Worku]
+# Purpose: Educational setup for a Node.js API that connects to a Flask model server
+# --------------------------------------------
+
+# Step 1: Update system packages
+echo "🔄 Updating system packages..."
+sudo apt update
+
+# Step 2: Install Node.js and npm (Node Package Manager)
+echo "📦 Installing Node.js and npm..."
+sudo apt install nodejs npm -y
+
+# Step 3: Check versions (optional)
+echo "📌 Installed versions:"
+node -v
+npm -v
+
+# Step 4: [Manual step] Upload your Node.js backend project
+# Option 1: Upload from local machine using scp:
+#   scp -i your-key.pem -r ./your-node-backend ubuntu@public-ip:~/your-folder
+# Option 2: Clone from GitHub:
+#   sudo apt install git -y
+#   git clone https://github.com/your-repo-name.git
+#   cd your-repo-name
+
+echo "📁 [Manual step] Upload or clone your Node.js backend project"
+
+# Step 5: Install Node.js project dependencies
+echo "📦 Installing project dependencies with npm..."
+npm install
+
+# Step 6: Update your backend to call the Flask server
+# In your Node.js file (e.g., app.js), make sure this line uses the correct Flask server IP:
+# axios.post("http://<Flask_EC2_Public_IP>:5000/predict", req.body)
+
+echo "🛠️ [Manual step] Edit app.js to point to your Flask server’s public IP"
+
+# Step 7: Run the Node.js server using --watch for auto-reload (Node.js v18+)
+# If --watch doesn't work, use nodemon (npm install -g nodemon)
+echo "🚀 Starting Node.js backend server..."
+node --watch app.js
+
+# You should see something like: "Server running on port 3001"
+
+# Step 8: [Manual step] Open port 3001 in EC2 security group
+# Inbound Rule:
+# - Type: Custom TCP
+# - Port Range: 3001
+# - Source: 0.0.0.0/0 (or restrict to your IP)
+
+
+# Done 🎉
+
+
+
+
+#!/bin/bash
+
+# --------------------------------------------
+# React Frontend Deployment Script to AWS S3
+# Author: [Your Name]
+# Purpose: Educational setup for static website hosting using React + S3
+# --------------------------------------------
+
+# Step 1: Build the React app
+# Make sure you're in the root folder of your React project
+echo "🏗️ Building the React project..."
+npm run build
+
+# This creates a 'build/' or 'dist/' folder depending on your tool (React uses 'build')
+
+# Step 2: [Manual Step] Create a new S3 bucket via AWS Console
+# Go to: https://s3.console.aws.amazon.com/s3/home
+
+# Instructions:
+# ✅ Click "Create bucket"
+# ✅ Name it uniquely, e.g., "student-dropout-frontend"
+# ✅ Uncheck "Block all public access"
+# ✅ Enable "Static Website Hosting"
+# ✅ Set index document = index.html
+
+echo "🪣 [Manual step] Create a new public S3 bucket and enable static hosting."
+
+# Step 3: Upload build files to the S3 bucket
+# You can do this manually OR with AWS CLI:
+# aws s3 sync build/ s3://your-bucket-name --acl public-read
+
+# Install AWS CLI if not already installed:
+# sudo apt install awscli -y
+# aws configure (set your AWS Access Key and Secret)
+
+echo "☁️ [Optional CLI] Uploading files via AWS CLI (requires aws configure)..."
+# aws s3 sync build/ s3://your-bucket-name --acl public-read
+
+# Step 4: Set the bucket policy for public read access
+# Go to the S3 bucket > Permissions > Bucket Policy
+# Paste the following (replace "your-bucket-name")
+
+echo "🛡️ [Manual step] Add public-read policy to bucket:"
+echo '{
+  "Version": "2012-10-17",
+  "Statement": [{
+    "Effect": "Allow",
+    "Principal": "*",
+    "Action": "s3:GetObject",
+    "Resource": "arn:aws:s3:::your-bucket-name/*"
+  }]
+}'
+
+# Step 5: Update your React app to call your Node.js backend’s public IP
+# In your frontend API call (e.g., with axios), use:
+# axios.post("http://<Node_EC2_Public_IP>:3001/api/predict", ...)
+
+echo "🛠️ [Manual step] In your React code, set the backend URL to your Node.js EC2 IP:PORT"
+
+# Step 6: Access the frontend
+# Your site will be available at:
+# http://your-bucket-name.s3-website-<region>.amazonaws.com
+
+echo "🌐 All done! Open your site at:"
+echo "http://your-bucket-name.s3-website-<region>.amazonaws.com"
+
+# Done 🎉
+
+
+
+#!/bin/bash
+
+# -----------------------------------------------------
+# React Frontend Deployment on AWS EC2 (Dev Mode)
+# Author: [Your Name]
+# Purpose: Educational setup for React frontend on EC2
+# -----------------------------------------------------
+
+# Step 1: [Manual] Launch a new EC2 Ubuntu instance from AWS Console
+# Make sure to:
+# ✅ Choose Ubuntu 22.04 or later
+# ✅ Allow port 22 (SSH)
+# ✅ Allow custom TCP port (e.g., 5173 for Vite or 3000 for CRA)
+# ✅ Use an existing or new key pair for SSH access
+
+echo "🚀 Step 1: Launch EC2 instance and open required port (e.g., 5173) in security group."
+
+# Step 2: SSH into your instance
+# Example:
+# ssh -i your-key.pem ubuntu@<your-ec2-public-ip>
+
+echo "🔐 Step 2: SSH into your instance manually."
+
+# Step 3: Update system packages
+echo "🔄 Updating system..."
+sudo apt update
+sudo apt upgrade -y
+
+# Step 4: Install npm
+echo "📦 Installing npm..."
+sudo apt install npm -y
+
+# Step 5: Clone your React frontend project from GitHub
+# Make sure your repo contains the client in a subfolder or root
+echo "📁 Cloning React project..."
+# Example:
+# git clone https://github.com/your-username/your-repo.git
+# cd your-repo/client
+
+echo "📁 [Manual step] Clone your repo and navigate to the frontend directory."
+
+# Step 6: Install project dependencies
+echo "📦 Running npm install..."
+npm install
+
+# Step 7: Upgrade Node.js to meet Vite or modern React requirements
+echo "⬆️ Installing Node Version Manager and upgrading Node.js..."
+sudo npm install -g n
+sudo n 20.19.0
+
+# Step 8: Start the React app with --host to expose it publicly
+echo "🚀 Starting the React development server..."
+npm run dev -- --host
+
+# Expected Output:
+# ➜ Local: http://localhost:5173/
+# ➜ Network: http://<internal-ip>:5173/
+# You can now access it via http://<your-ec2-public-ip>:5173/
+
+# Step 9: [Manual] Make sure port 5173 is allowed in the EC2 Security Group!
+# Inbound Rule:
+# - Type: Custom TCP
+# - Port Range: 5173
+# - Source: 0.0.0.0/0 (or your IP)
+
+echo "🌍 Access your app via: http://<your-ec2-public-ip>:5173/"
+
+# Done 🎉
+
+
+Verifying an Email Address in AWS SES
+To send emails using AWS Simple Email Service (SES), you need to verify your sender email address (or domain). Here's a complete guide to verifying your email in AWS SES:
+
+Method 1: Verifying via AWS Console
+Log in to AWS Management Console
+
+Go to https://console.aws.amazon.com/
+
+Navigate to Amazon SES
+
+Search for "SES" in AWS services or find it under "Business Applications"
+
+Go to Identity Management
+
+In the left sidebar, click "Identities"
+
+Verify a New Email Address
+
+Click "Create Identity"
+
+Select "Email address" as the identity type
+
+Enter the email address you want to verify (e.g., no-reply@yourdomain.com)
+
+Click "Create Identity"
+
+Check Your Email Inbox
+
+AWS will send a verification email to the address you specified
+
+Open the email from AWS Notifications
+
+Click the verification link in the email
+
+Confirmation
+
+Return to the AWS SES console
+
+The email address should now show status "Verified"
+
+
+
+
+
+
+from flask import Flask, request, jsonify
+import xgboost as xgb
+import numpy as np
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)
+
+# Load your XGBoost model
+model = xgb.Booster()
+model.load_model('model/xgboost-model')  # Path to your model
+
+# Define threshold (adjust this based on your model's performance)
+DROPOUT_THRESHOLD = 0.5  # Students with risk > 0.5 will be classified as "will dropout"
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        # Validate input data
+        required_fields = ['lecture_watch_pct', 'checklist_pct', 
+                         'attended_live_class', 'attended_group_discussion',
+                         'qa_participation_pct']
+        
+        data = request.json
+        
+        if not all(field in data for field in required_fields):
+            return jsonify({"error": "Missing required fields"}), 400
+
+        # Prepare features
+        features = [
+            float(data['lecture_watch_pct']),
+            float(data['checklist_pct']),
+            int(data['attended_live_class']),
+            int(data['attended_group_discussion']),
+            float(data['qa_participation_pct'])
+        ]
+
+        # Make prediction
+        dtest = xgb.DMatrix(np.array([features]))
+        dropout_prob = float(model.predict(dtest)[0])
+        
+        # Convert to binary prediction
+        will_dropout = bool(dropout_prob > DROPOUT_THRESHOLD)  # True/False
+        dropout_class = int(will_dropout)  # 0 or 1
+
+         # Generate smarter recommendations
+        recs = []
+
+        if data['lecture_watch_pct'] < 70:
+            recs.append("Increase your lecture video completion to at least 80% to strengthen understanding.")
+        if data['checklist_pct'] < 70:
+            recs.append("Make sure to complete all checklist items to stay on track.")
+        if data['attended_live_class'] == 0:
+            recs.append("Attend live classes to get real-time support and stay engaged.")
+        if data['attended_group_discussion'] == 0:
+            recs.append("Join group discussions to improve collaboration and communication skills.")
+        if data['qa_participation_pct'] < 60:
+            recs.append("Participate more in Q&A to clarify doubts and boost retention.")
+
+        # If no improvements are needed, send praise
+        if not recs:
+            recs.append("🎉 Good job! You did well this week. Keep the momentum going!")
+
+        return jsonify({
+            "probability": dropout_prob,  # Keep original probability for reference
+            "dropout_risk": will_dropout,  # True/False
+            "dropout_class": dropout_class,  # 0 or 1
+            "recommended_activities": recs,
+            "threshold_used": DROPOUT_THRESHOLD
+        })
+
+    except Exception as e:
+        return jsonify({
+            "error": str(e),
+            "success": False
+        }), 400
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000, debug=True)
+
