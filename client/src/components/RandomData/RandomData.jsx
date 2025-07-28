@@ -21,7 +21,7 @@ const RandomData = () => {
   const handleSubmit = async () => {
     setLoading(true);
     const response = await axios.post(
-      "http://localhost:4000/api/predict",
+      "http://34.227.48.46:4000/api/predict",
       requestData
     );
 
