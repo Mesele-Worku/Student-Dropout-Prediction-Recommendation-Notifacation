@@ -4,7 +4,7 @@ import Result from "../../components/Results/Results";
 import RandomData from "../../components/RandomData/RandomData";
 import Visualization from "../Visualizations/Visualization";
 import { IoIosArrowDropup } from "react-icons/io";
-import Chatbot from "../chatbot/Chatbot";
+// import Chatbot from "../chatbot/Chatbot";
 const Predictor = () => {
   return (
     <div className="p-10">
@@ -16,7 +16,7 @@ const Predictor = () => {
       <RandomData />
       <Result />
       <Visualization />
-      <Chatbot />
+      {/* <Chatbot /> */}
       {/* Back to top link */}
       <a
         href="#"
