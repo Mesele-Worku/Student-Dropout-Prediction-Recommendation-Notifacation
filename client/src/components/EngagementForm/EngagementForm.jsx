@@ -33,7 +33,7 @@ export default function EngagementForm() {
     e.preventDefault();
     setLoading(true);
     const res = await axios.post(
-      "http://34.227.48.46:4000/api/predict",
+      "http://16.171.165.72:4000/api/predict",
       requestData
     );
     console.log(form);
